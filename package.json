@@ -1,0 +1,6 @@
+{
+  "name": "husky-course-browser",
+  "private": true,
+  "scripts": {"test": "node --test tests/test-app.cjs"},
+  "devDependencies": {"jsdom": "29.1.1"}
+}

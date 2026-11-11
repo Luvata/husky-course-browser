@@ -1,0 +1,5 @@
+.banner-cache/
+.venv/
+__pycache__/
+*.tmp
+node_modules/

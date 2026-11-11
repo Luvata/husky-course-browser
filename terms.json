@@ -1,0 +1,19 @@
+{
+  "defaultTerm": "202710",
+  "terms": [
+    {
+      "id": "202710",
+      "label": "Fall 2026",
+      "file": "courses.json",
+      "compressed": "courses-202710-10ae53733502.bin",
+      "storageKey": "husky-fall26"
+    },
+    {
+      "id": "202730",
+      "label": "Spring 2027",
+      "file": "courses-202730.json",
+      "compressed": "courses-202730-97b0d65c779e.bin",
+      "storageKey": "husky-202730"
+    }
+  ]
+}
